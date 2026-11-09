@@ -1,0 +1,54 @@
+@font-face {
+    font-family: Manrope ;
+    font-weight: 700 ;
+    font-style: normal ;
+    src: local("Manrope"),
+        url("../fonts/static/Manrope-Bold.eot") format("eot"),
+        url("../fonts/static/Manrope-Bold.woff") format("woff"),
+        url("../fonts/static/Manrope-Bold.woff2") format("woff2");
+    font-display: swap ;
+}
+
+@font-face {
+    font-family: Manrope ;
+    font-weight: 800 ;
+    font-style: normal ;
+    src: local("Manrope"),
+        url("../fonts/static/Manrope-ExtraBold.eot") format("eot"),
+        url("../fonts/static/Manrope-ExtraBold.woff") format("woff"),
+        url("../fonts/static/Manrope-ExtraBold.woff2") format("woff2");
+    font-display: swap ;
+}
+
+@font-face {
+    font-family: Manrope ;
+    font-weight: 500 ;
+    font-style: normal ;
+    src: local("Manrope"),
+        url("../fonts/static/Manrope-Medium.eot") format("eot"),
+        url("../fonts/static/Manrope-Medium.woff") format("woff"),
+        url("../fonts/static/Manrope-Medium.woff2") format("woff2");
+    font-display: swap ;
+}
+
+@font-face {
+    font-family: Manrope ;
+    font-weight: 600 ;
+    font-style: normal ;
+    src: local("Manrope"),
+        url("../fonts/static/Manrope-SemiBold.eot") format("eot"),
+        url("../fonts/static/Manrope-SemiBold.woff") format("woff"),
+        url("../fonts/static/Manrope-SemiBold.woff2") format("woff2");
+    font-display: swap ;
+}
+
+@font-face {
+    font-family: roboto ;
+    font-weight: 700 ;
+    font-style: normal ;
+    src: local("Manrope"),
+        url("../fonts/static/Roboto-Medium.eot") format("eot"),
+        url("../fonts/static/Roboto-Medium.woff") format("woff"),
+        url("../fonts/static/Roboto-Medium.woff2") format("woff2");
+    font-display: swap ;
+}
